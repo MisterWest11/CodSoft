@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "966553000446",
+    "project_id": "qoutesapplication",
+    "storage_bucket": "qoutesapplication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:966553000446:android:4cacc0beb53a6515ed88af",
+        "android_client_info": {
+          "package_name": "com.example.qoutesapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBogaZb-18PPcKKqc2IY4p4AU-aROU3BFg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

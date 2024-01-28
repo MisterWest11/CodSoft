@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Qoutes Application</string>
+    <string name="quote1">"The best and most beautiful things in the world cannot be seen or even touched - they must be
+        felt with the heart." \n - Helen Keller
+    </string>
+    <string name="quote2">"The best preparation for tomorrow is doing your best today." \n - H. Jackson Brown, Jr.
+    </string>
+    <string name="quote3">"If you believe in yourself and have dedication and pride - and never quit, you'll be a
+        winner." \n - Paul Bryant
+    </string>
+    <string name="quote4">"A successful man is one who can lay a firm foundation with the bricks others have thrown at
+        him." \n - David Brinkley
+    </string>
+    <string name="quote5">"No one can make you feel inferior without your consent." \n - Eleanor Roosevelt</string>
+    <string name="quote6">"I believe that the only courage anybody ever needs is the courage to follow your own dreams."
+        \n - Oprah Winfrey
+    </string>
+    <string name="quote7">“All our dreams can come true, if we have the courage to pursue them.” \n —Walt Disney
+    </string>
+    <string name="quote8">“It’s hard to beat a person who never gives up.” \n —Babe Ruth</string>
+    <string name="quote9">“You’ve gotta dance like there’s nobody watching, love like you’ll never be hurt, sing like
+        there’s nobody listening, and live like it’s heaven on earth.” \n —William W. Purkey
+    </string>
+    <string name="quote10">“When one door of happiness closes, another opens; but often we look so long at the closed
+        door that we do not see the one which has been opened for us.” \n ―Helen Kelle
+    </string>
+    <string name="quote11">“Your passion is waiting for your courage to catch up.” \n —Isabelle Lafleche</string>
+    <string name="quote12">“If something is important enough, even if the odds are stacked against you, you should still
+        do it.” \n —Elon Musk
+    </string>
+    <string name="quote13">“If you believe it’ll work out, you’ll see opportunities. If you don’t believe it’ll work
+        out, you’ll see obstacles.” \n ―Wayne Dyer
+    </string>
+    <string name="quote14">“Keep your eyes on the stars, and your feet on the ground.” \n ―Theodore Roosevelt</string>
+    <string name="quote15">“You can waste your lives drawing lines. Or you can live your life crossing them.” \n ―Shonda
+        Rhimes
+    </string>
+    <string name="quote16">“If opportunity doesn’t knock, build a door.” \n ―Kurt Cobain</string>
+    <string name="quote17">“Work hard in silence, let your success be the noise.” \n ―Frank Ocean</string>
+    <string name="quote18">Never give up on a dream just because of the time it will take to accomplish it. The time
+        will pass anyway.” \n ―Earl Nightingale
+    </string>
+    <string name="quote19">“If you cannot do great things, do small things in a great way.” \n ―Napoleon Hill</string>
+    <string name="quote20">“Start where you are. Use what you have. Do what you can.” \n ―Arthur Ashe</string>
+</resources>
