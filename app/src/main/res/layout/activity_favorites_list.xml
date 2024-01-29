@@ -5,7 +5,7 @@
         xmlns:app="http://schemas.android.com/apk/res-auto"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:background="#F9DDB2"
+        android:background="#757C88"
         tools:context=".FavoritesList">
 
     <Button
@@ -15,7 +15,8 @@
             android:text="Back"
             android:layout_alignParentBottom="true"
             android:layout_centerHorizontal="true"
-            android:background="#FFFFFF"
+            android:textColor="#000000"
+            android:background="@drawable/rounded_button"
     />
 
     <ListView
@@ -24,6 +25,7 @@
             android:layout_height="match_parent"
             android:id="@+id/lstFavoriteQuote"
             android:layout_above="@id/btnBack"
+            android:textColor="#FFFFFF"
 
     />
 
