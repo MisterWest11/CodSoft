@@ -8,9 +8,7 @@
         android:background="#757C88"
         tools:context=".MainActivity">
 
-    
 
-        >
 
         <TextView
                 android:text="Quote Of The Day"
